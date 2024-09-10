@@ -1,7 +1,7 @@
 import 'package:freezed_annotation/freezed_annotation.dart';
 import 'package:identaplusschool/core/modeling/dto/view_state.dart';
 
-part '../../../../../../../mvvm_simple_2/__brick__/lib/features/{{feature_name.snakeCase()}}/domain/model/{{feature_name.snakeCase()}}_state.freezed.dart';
+part '{{feature_name.snakeCase()}}_state.freezed.dart';
 
 @freezed
 class {{feature_name.pascalCase()}}State with _${{feature_name.pascalCase()}}State {

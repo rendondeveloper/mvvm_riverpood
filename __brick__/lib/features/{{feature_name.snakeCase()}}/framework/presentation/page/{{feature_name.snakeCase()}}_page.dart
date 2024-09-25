@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 
-class Aplazo{{feature_name.pascalCase()}} extends StatelessWidget {
+class {{feature_name.pascalCase()}} extends StatelessWidget {
 
-  const Aplazo{{feature_name.pascalCase()}}({super.key});
+  const {{feature_name.pascalCase()}}({super.key});
 
   @override
   Widget build(BuildContext context) {

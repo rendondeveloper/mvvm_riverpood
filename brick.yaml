@@ -1,7 +1,7 @@
 name: mvvm_riverpood
 description: A new brick created with the Mason CLI.
 
-version: 0.1.0+1
+version: 0.1.0+3
 environment:
   mason: ">=0.1.0-dev.55 <0.1.0"
 vars:    
